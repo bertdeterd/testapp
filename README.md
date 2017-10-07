@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Build Setup
-ssssssxxxccsss master 
+ssssssxxxccsss master xx
 ``` bash
 # install dependencies
 npm install
