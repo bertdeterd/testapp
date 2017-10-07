@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-ssssssxxxccsssdev111git test master XXXZZBB AA 
+ssssssxxxccsssdev111git test master XXXZZBB AA zz
 
 ``` bash
 # install dependencies
